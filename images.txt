@@ -17,6 +17,6 @@ postgres:13
 
 redis:6
 
-jenkins/jenkins:lts
+jenkins/jenkins:lts-jdk17
 gitlab/gitlab-ce
 
