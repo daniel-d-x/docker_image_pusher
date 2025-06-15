@@ -15,5 +15,6 @@
 
 #jenkins/jenkins:lts-jdk17
 #jenkins/jenkins:lts
-bitnami/rabbitmq:latest
+#bitnami/rabbitmq:latest
+apache/kafka:3.7.0
 
