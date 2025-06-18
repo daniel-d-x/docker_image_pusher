@@ -16,5 +16,5 @@
 #jenkins/jenkins:lts-jdk17
 #jenkins/jenkins:lts
 #bitnami/rabbitmq:latest
-apache/kafka:3.7.0
-
+#apache/kafka:3.7.0
+delron/fastdfs
