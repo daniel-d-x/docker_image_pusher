@@ -17,4 +17,14 @@
 #jenkins/jenkins:lts
 #bitnami/rabbitmq:latest
 #apache/kafka:3.7.0
-delron/fastdfs
+#delron/fastdfs
+prom/prometheus
+prom/node-exporter
+grafana/grafana
+canal
+zabbix/zabbix-3.0:3.0.0
+million12/zabbix-agent:2.4.7
+bladex/sentinel-dashboard
+apache/kafka
+zookeeper
+ansible
