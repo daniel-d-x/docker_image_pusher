@@ -22,8 +22,8 @@ prom/prometheus
 prom/node-exporter
 grafana/grafana
 #canal
-zabbix/zabbix-3.0:3.0.0
-million12/zabbix-agent:2.4.7
+#zabbix/zabbix-3.0:3.0.0
+#million12/zabbix-agent:2.4.7
 bladex/sentinel-dashboard
 apache/kafka
 zookeeper
